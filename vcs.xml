@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/BUPT-xiao/USYD.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BUPT-xiao/usyd_lake.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
